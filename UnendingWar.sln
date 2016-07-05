@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnendingWar", "UnendingWar\UnendingWar.csproj", "{F37666C8-1960-4FAB-95DD-3E92878E2E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnendingWarContent", "UnendingWar\Content\UnendingWarContent.contentproj", "{57DFCC85-9172-4E40-A82D-97F63A50FC36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F37666C8-1960-4FAB-95DD-3E92878E2E0F}.Debug|x86.ActiveCfg = Debug|x86
+		{F37666C8-1960-4FAB-95DD-3E92878E2E0F}.Debug|x86.Build.0 = Debug|x86
+		{F37666C8-1960-4FAB-95DD-3E92878E2E0F}.Release|x86.ActiveCfg = Release|x86
+		{F37666C8-1960-4FAB-95DD-3E92878E2E0F}.Release|x86.Build.0 = Release|x86
+		{57DFCC85-9172-4E40-A82D-97F63A50FC36}.Debug|x86.ActiveCfg = Debug|x86
+		{57DFCC85-9172-4E40-A82D-97F63A50FC36}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
