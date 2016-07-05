@@ -4,3 +4,5 @@
 /UnendingWar/Content/*.user
 /UnendingWar/obj
 /UnendingWar/bin
+/UnendingWar/*.user
+/UnendingWar/*.cachefile
